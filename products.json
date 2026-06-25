@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Resident Evil 4",
+    "price": "60 $",
+    "image": "./images/res4.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Battlefield 1",
+    "price": "40 $",
+    "image": "./images/bf1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Silent Hill 2",
+    "price": "50 $",
+    "image": "./images/sh2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Alan Wake 2",
+    "price": "50 $",
+    "image": "./images/aw2.webp"
+  },
+  {
+    "id": 5,
+    "title": "Sekiro: Shadows Die Twice",
+    "price": "60 $",
+    "image": "./images/sek.webp"
+  },
+  {
+    "id": 6,
+    "title": "Resident Evil Village",
+    "price": "40 $",
+    "image": "./images/resvil.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Elden Ring",
+    "price": "60 $",
+    "image": "./images/er.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Cyberpunk 2077",
+    "price": "50 $",
+    "image": "./images/Cyb2077.png"
+  },
+  {
+    "id": 9,
+    "title": "GTA V",
+    "price": "30 $",
+    "image": "./images/gtav.png"
+  },
+  {
+    "id": 10,
+    "title": "Red Dead Redemption 2",
+    "price": "60 $",
+    "image": "./images/rdr2.jpg"
+  }
+]
